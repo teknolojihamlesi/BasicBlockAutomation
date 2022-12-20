@@ -1,0 +1,13 @@
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\BlockAutomationExam\BlockAutomationExam\bin\Debug\BlockAutomationExam.exe.config
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\BlockAutomationExam\BlockAutomationExam\bin\Debug\BlockAutomationExam.exe
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\BlockAutomationExam\BlockAutomationExam\bin\Debug\BlockAutomationExam.pdb
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\BlockAutomationExam\BlockAutomationExam\obj\Debug\BlockAutomationExam.csproj.AssemblyReference.cache
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\BlockAutomationExam\BlockAutomationExam\obj\Debug\BlockAutomationExam.csproj.SuggestedBindingRedirects.cache
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\BlockAutomationExam\BlockAutomationExam\obj\Debug\BlockAutomationExam.Form1.resources
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\BlockAutomationExam\BlockAutomationExam\obj\Debug\BlockAutomationExam.Gelirler.resources
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\BlockAutomationExam\BlockAutomationExam\obj\Debug\BlockAutomationExam.Giderler.resources
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\BlockAutomationExam\BlockAutomationExam\obj\Debug\BlockAutomationExam.Properties.Resources.resources
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\BlockAutomationExam\BlockAutomationExam\obj\Debug\BlockAutomationExam.csproj.GenerateResource.cache
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\BlockAutomationExam\BlockAutomationExam\obj\Debug\BlockAutomationExam.csproj.CoreCompileInputs.cache
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\BlockAutomationExam\BlockAutomationExam\obj\Debug\BlockAutomationExam.exe
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\BlockAutomationExam\BlockAutomationExam\obj\Debug\BlockAutomationExam.pdb
